@@ -1,0 +1,8 @@
+# Ignore local storage and confidential files
+dashboard_store/
+*.json
+*.csv
+*.xlsx
+*.pdf
+__pycache__/
+.streamlit/
